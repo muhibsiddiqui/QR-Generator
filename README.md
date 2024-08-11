@@ -26,4 +26,7 @@ A simple web application for generating QR codes using HTML, CSS, and JavaScript
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Copyright
+
+© 2024 Muhammad Muhib Siddiqui. All rights reserved.
    
